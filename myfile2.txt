@@ -1,2 +1,8 @@
-This is my second file
-A change to this file
+This is my first file
+<<<<<<< HEAD
+Changes to our file, in our own rep.
+=======
+Changes to our file, in the clone
+Changes to our file, in our own repo
+=======
+>>>>>>> 3e6a7a0e1f2ec5288c6999179bf587e64b679757
