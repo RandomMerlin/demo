@@ -1,2 +1,7 @@
 This is my first file
+<<<<<<< HEAD
 Changes to our file, in our own rep.
+=======
+Changes to our file, in the clone
+>>>>>>> 287e4953559c7dbe170e3594dcd22d1d1f7dfe4e
+Changes to our file, in our own repo
